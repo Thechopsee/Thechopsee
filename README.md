@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Thechopsee
-- 3D models:
+👋 Hi, I’m @Thechopsee<br>
+3D models:<br>
 - Thingiverse [Here!](https://www.thingiverse.com/thechopsee/designs)
 - Cults3D [Here!](https://cults3d.com/en/search?q=thechopsee)
 
