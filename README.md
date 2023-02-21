@@ -1,7 +1,7 @@
 👋 Hi, I’m @Thechopsee<br>
 Curently working on:
 - REM-boat 
-- some secret stuff....
+- some secret stuff...<br>
 3D models:<br>
 - Thingiverse [Here!](https://www.thingiverse.com/thechopsee/designs)
 - Cults3D [Here!](https://cults3d.com/en/search?q=thechopsee)
