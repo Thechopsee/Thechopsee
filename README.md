@@ -2,7 +2,7 @@
 Curently working on:
 - REM-boat 
 - terlickaplachta.cz
-- some secret stuff...
+- Virtual Racing Setup
 
 3D models:<br>
 - Thingiverse [Here!](https://www.thingiverse.com/thechopsee/designs)
