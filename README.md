@@ -1,8 +1,4 @@
 👋 Hi, I’m @Thechopsee<br>
-Curently working on:
-- REM-boat 
-- terlickaplachta.cz
-- Virtual Racing Setup
 
 3D models:<br>
 - Thingiverse [Here!](https://www.thingiverse.com/thechopsee/designs)
